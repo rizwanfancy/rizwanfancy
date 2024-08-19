@@ -1,101 +1,84 @@
-# Rizwan Anwer
-**Full Stack Developer**
+# Hi, I'm Rizwan Anwer 👋
+**Full Stack Developer | 8+ Years Experience**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rizwanfancy/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/rizwanfancy)
-
----
-
-## 📱 Contact Information
-- **Mobile:** +92-323-2195015
-- **Email:** [rizwanfancy@hotmail.com](mailto:rizwanfancy@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rizwanfancy/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-green?logo=github&style=flat-square)](https://github.com/rizwanfancy)
 
 ---
 
-## 🛠️ Technical Skills
-- **Frontend:** VueJs, Angular, React, JavaScript, TypeScript, HTML/CSS
-- **Backend:** .Net Core, NodeJs, ExpressJs
-- **Database:** SQL, MongoDb, LINQ, EF, Dapper
-- **Tools:** Telerik, AgGrid, DevExpress, Bootstrap, Material UI
-- **Version Control:** GitHub, GitLab
-- **Project Management:** Jira
+## 🚀 Tech Stack
 
----
-
-## ⚙️ Other Skills
-- API Development
-- Deployment
-- IIS
-- Redis for Caching
-- Entity Framework
-- Aggrid UI Component
-- Devexpress UI Kit
-- Bootstrap UI Kit
-- Material UI Kit
-
----
-
-## 🎓 Education
-- **BSCS:** Orasoft Institute Karachi (Affiliated with Federal Urdu University)
-- **FSC (Pre-Engineering):** Hyderabad Board, Sindh
-- **HSC:** Karachi Board
+<p align="center">
+  <a href="#" title="Vue.js">
+    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&style=for-the-badge" alt="Vue.js"/>
+  </a>
+  <a href="#" title="Angular">
+    <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&style=for-the-badge" alt="Angular"/>
+  </a>
+  <a href="#" title="React">
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge" alt="React"/>
+  </a>
+  <a href="#" title="JavaScript">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge" alt="JavaScript"/>
+  </a>
+  <a href="#" title="TypeScript">
+    <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&style=for-the-badge" alt="TypeScript"/>
+  </a>
+  <a href="#" title=".Net Core">
+    <img src="https://img.shields.io/badge/-.Net%20Core-5C2D91?logo=dotnet&style=for-the-badge" alt=".Net Core"/>
+  </a>
+  <a href="#" title="Node.js">
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge" alt="Node.js"/>
+  </a>
+  <a href="#" title="SQL">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&style=for-the-badge" alt="SQL"/>
+  </a>
+  <a href="#" title="MongoDB">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=for-the-badge" alt="MongoDB"/>
+  </a>
+</p>
 
 ---
 
 ## 🌟 Highlights
-- **8+ Years** of Software Development Experience
-- **Leadership:** Led teams to achieve technical and management goals
-- **Full Stack Expertise:** Extensive knowledge of both front-end and back-end development
-- **Optimization:** Expertise in performance enhancement and code optimization
+- **8+ Years** of Full Stack Development experience.
+- Leading teams to achieve both technical and management goals.
+- Expertise in performance enhancement and code optimization.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### **Contour Software Pvt Ltd**
-**Sr. Software Developer**  
-*May 2022 – Present*
+- **Sr. Software Developer**  
+  *Contour Software Pvt Ltd (May 2022 – Present)*
 
-### **iSplendid**
-**Sr. Software Developer**  
-*Oct 2020 – May 2022*
+- **Sr. Software Developer**  
+  *iSplendid (Oct 2020 – May 2022)*
 
-### **Info Access (IXS)**
-**Software Developer**  
-*Sep 2014 – Oct 2020*
+- **Software Developer**  
+  *Info Access (IXS) (Sep 2014 – Oct 2020)*
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### **Advance Utility System (Contour Software Pvt Ltd)**
-- **Technical Stacks:** .Net Core, VueJs, SQL
-- Vendor-based (Utilities) billing management system utilized in Canada, North America.
+- **Advance Utility System**  
+  *Contour Software Pvt Ltd*  
+  Tech Stack: `.Net Core, VueJs, SQL`  
+  Vendor-based billing management system used in Canada.
 
-### **NewQuantum (iSplendid)**
-- **Technical Stacks:** .Net Core, Angular, SQL, EF, Dapper
-- "Fintech as a Service" provider, offering smart technology and exceptional service for client investment portfolios.
+- **NewQuantum**  
+  *iSplendid*  
+  Tech Stack: `.Net Core, Angular, SQL, EF, Dapper`  
+  Fintech platform for managing client investment portfolios.
 
-### **Splendid Accounts (iSplendid)**
-- **Technical Stacks:** .Net Core, Angular, React, SQL, EF, Microservices
-- Online accounting and inventory management solution designed for small and medium-sized businesses in Pakistan.
-
-### **Sharjah Charity (iSplendid)**
-- **Technical Stacks:** .Net Core, Ionic
-- Online donation platform supporting family, Waqf, and general contributions through an integrated payment portal.
-
-### **Eduman & EDAP**
-- **Technical Stacks:** .Net Core, Angular, SQL, Telerik
-- Revolutionizes education management in Karachi, unifying academics, fees, parent engagement, and online classes.
-
-### **Driving License Sindh**
-- **Technical Stacks:** .Net Core, Window Form, SQL, Telerik
-- Microservice architecture for web and mobile frontends, integrating with NADRA, Jazz, and TCS for license issuance and renewal.
-
-### **eChallan**
-- **Technical Stacks:** .Net Core, Window Form, SQL, Telerik
-- Ticketing system for traffic violations in Quetta and Sindh, integrated with payment gateways and driving license management.
+- **Splendid Accounts**  
+  *iSplendid*  
+  Tech Stack: `.Net Core, Angular, React, SQL, EF, Microservices`  
+  Online accounting and inventory management for SMBs in Pakistan.
 
 ---
 
-Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/rizwanfancy/) or explore my projects on [GitHub](https://github.com/rizwanfancy).
+## 📫 Let's Connect!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rizwanfancy/) or explore my work on [GitHub](https://github.com/rizwanfancy).
+
