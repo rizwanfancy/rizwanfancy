@@ -1,7 +1,7 @@
 # Hi, I'm Rizwan Anwer 👋
 **Full Stack Developer | 8+ Years Experience**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanfancy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rizwanfancy/](https://pk.linkedin.com/in/rizwan-fancy?trk=people-guest_people_search-card))
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat-square&logo=github&logoColor=white)](https://github.com/rizwanfancy)
 
 ---
@@ -80,4 +80,4 @@
 ---
 
 ## 📫 Let's Connect!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rizwanfancy/) or explore my work on [GitHub](https://github.com/rizwanfancy).
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/rizwanfancy/](https://pk.linkedin.com/in/rizwan-fancy?trk=people-guest_people_search-card)) or explore my work on [GitHub](https://github.com/rizwanfancy).
